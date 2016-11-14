@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+@CHARSET "ISO-8859-1";
+header {
+	text-align: center;
+	color: blue;
+	font-size:100;
+	padding:20px;
+	font-size:larger;
+	font-family:small-caps;
+}
+
+#div {
+	text-align: center;
+	width: 25%;
+	border-style: solid;
+	border-width: medium;
+	margin:  auto ;
+	padding: 20px;
+}

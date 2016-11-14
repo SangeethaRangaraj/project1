@@ -1,0 +1,23 @@
+a {
+	color: red;
+}
+
+header {
+	text-align: center;
+	color: blue;
+	font-size:100;
+}
+
+#div {
+	text-align: center;
+	width: 25%;
+	border-style: solid;
+	border-width: medium;
+	margin: 30 auto;
+	padding: 20px;
+}
+
+footer {
+	text-align: center;
+	font-style: italic;
+}
